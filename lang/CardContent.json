@@ -1,0 +1,37 @@
+{
+  "1": {
+    "primary": "CS:GO Boosting",
+    "secondary": "Up to Global Elite",
+    "linkColor": "#1e99e7",
+    "gradient": "radial-gradient(281.2% 298.16% at 50.16% 337.7%, #1e99e7 0, #0f1231 100%)",
+    "image": "cs"
+  },
+  "2": {
+    "primary": "Faceit Boosting",
+    "secondary": "Up to 4400 Elo",
+    "linkColor": "#fd6b20",
+    "gradient": "radial-gradient(281.2% 298.16% at 50.16% 337.7%, #fd6b20 0, #0f1231 100%)",
+    "image": "faceit"
+  },
+  "3": {
+    "primary": "ESEA Boosting",
+    "secondary": "Up to Rank S",
+    "linkColor": "#00993f",
+    "gradient": "radial-gradient(281.2% 298.16% at 50.16% 337.7%, #00993f 0, #0f1231 100%)",
+    "image": "esea"
+  },
+  "4": {
+    "primary": "Esportal Boosting",
+    "secondary": "Up to Legend",
+    "linkColor": "#b620fd",
+    "gradient": "radial-gradient(281.2% 298.16% at 50.16% 337.7%, #00993f 0, #0f1231 100%)",
+    "image": "esportal"
+  },
+  "5": {
+    "primary": "Smurf Accounts",
+    "secondary": "For Faceit & ESEA",
+    "linkColor": "#00FFB2",
+    "gradient": "radial-gradient(281.2% 298.16% at 50.16% 337.7%, #00FFB2 0%, #0F1231 100%)",
+    "image": "smurf"
+  }
+}
